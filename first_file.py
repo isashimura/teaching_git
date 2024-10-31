@@ -3,4 +3,5 @@
 print('Hello students')
 print('hello')
 
+<<<<<<< HEAD
 print('boo')
