@@ -5,3 +5,4 @@ print('hello')
 
 <<<<<<< HEAD
 print('boo')
+print('hi')
